@@ -210,3 +210,13 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python,pycharm
+.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/nginx-logs.iml
+.idea/workspace.xml
+Dockerfile
+nginx_logs.txt
+parser.py
+parser.pyc
+test.txt
